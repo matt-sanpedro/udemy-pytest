@@ -23,3 +23,11 @@
 - modular
 - data-driven design
 - Library/Utils
+
+## Pytest useful commands
+- run tests in specific directory in verbose mode: ```pytest -v test_dir```
+- run specific test with the "-k" flag: ```pytest -v -k a5```
+
+## Pytest markers
+- test can have multiple markers
+- a marker can be on multiple tests
