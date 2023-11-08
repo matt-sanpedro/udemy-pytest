@@ -27,6 +27,9 @@
 ## Pytest useful commands
 - run tests in specific directory in verbose mode: ```pytest -v test_dir```
 - run specific test with the "-k" flag: ```pytest -v -k a5```
+- run multiple specific tests with or keyword: ```pytest -v -k "a1 or a2"```
+- list all the tests and python packages: ```pytest -v --collect-only```
+- run tests and exit if failure encountered: ```pytest -v --exitfirst```
 
 ## Pytest markers
 - test can have multiple markers
