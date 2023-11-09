@@ -1,0 +1,5 @@
+user    city        email
+Jake    New York    jake@mymail.com
+Ana     Barcelona   ana@mymail.com
+Amber   San Antonio amber@mymail.com
+Lauren  Greenville  lauren@mymail.com
