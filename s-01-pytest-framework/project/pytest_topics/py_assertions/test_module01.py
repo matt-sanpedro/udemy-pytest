@@ -7,6 +7,7 @@ def test_a1():
     assert 4 != 3
 
 def test_a2():
+    print("Running from a2")
     assert 1
     assert True
 
